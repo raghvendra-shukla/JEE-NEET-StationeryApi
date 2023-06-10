@@ -17,7 +17,12 @@ const sagar=[
     {
         Stationeryname:"Shree Balaji Stationery",
         Stationeryaddress:"Mlb School Road, Gopalganj, Sagar - 470001 (Opposite Bengali Kali Mandir, Bengali Kali Tiraha)",
-        Stationerynumber:"1234"
+        Stationerynumber:"No Number"
+    },
+    {
+        Stationeryname:"Suvidha Stationery",
+        Stationeryaddress:"Besides City Post Office Kriti sthambh Namak Mandi,Katra Bazaar,Sagar,Madhya Pradesh 470001",
+        Stationerynumber:"09039485120"
     },
 ]
 exports.sagar=sagar;
